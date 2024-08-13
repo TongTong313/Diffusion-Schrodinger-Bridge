@@ -11,6 +11,8 @@ B站主页：[Tong发发](https://space.bilibili.com/323109608)
 - [你一定能听懂的Recitified Flow基本原理深度解析](https://www.bilibili.com/video/BV19m421G7W8/)
 - [零门槛掌握DDPM](https://www.bilibili.com/video/BV1zz421i7UM/)
 
+**特别推荐看一下本人的[扩散模型之老司机开车理论视频](https://www.bilibili.com/video/BV1qW42197dv/)，对你理解扩散模型有很大帮助~**
+
 **TODO**：
 - [ ] 加班加点准备代码讲解视频…… 
 - [ ] 模型权重文件上传
