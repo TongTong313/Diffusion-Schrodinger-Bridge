@@ -1,4 +1,4 @@
-# 从零手搓扩散薛定谔桥（Diffusion Schrödinger Bridge）代码
+# 从零手搓扩散薛定谔桥（Diffusion Schrödinger Bridge）
 
 作者：Tong Tong 
 
