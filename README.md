@@ -4,7 +4,8 @@
 
 B站主页：[Tong发发](https://space.bilibili.com/323109608)
 
-本套代码未来会出讲解视频，为了让大家更好的理解，强烈建议观看本人下面的几个B站视频：
+本套代码**未来会出讲解视频**，为了让大家更好的理解，强烈建议观看本人下面的几个B站视频：
+- [白话薛定谔桥](https://www.bilibili.com/video/BV1dsYieMEvj/)
 - [扩散模型随机微分方程（SDE）公式保姆级手推](https://www.bilibili.com/video/BV1y1YpejEB4/)
 - [你一定能听懂的扩散模型Flow Matching基本原理深度解析](https://www.bilibili.com/video/BV1Wv3xeNEds/)
 - [你一定能听懂的Recitified Flow基本原理深度解析](https://www.bilibili.com/video/BV19m421G7W8/)
