@@ -2,7 +2,7 @@
 
 作者：Tong Tong 
 
-B站主页：[Tong发发](https://space.bilibili.com/323109608)
+B站主页：[Double童发发](https://space.bilibili.com/323109608)
 
 本套代码**未来会出讲解视频**，为了让大家更好的理解，强烈建议观看本人下面的几个B站视频：
 - [白话薛定谔桥](https://www.bilibili.com/video/BV1dsYieMEvj/)
